@@ -5,7 +5,7 @@ class Paper {
   touchStartX = 0;
   touchStartY = 0;
   touchMoveX = 0;
-  touchMoveY = 0;
+  touchMoveY = 0; 
   touchEndX = 0;
   touchEndY = 0;
   prevTouchX = 0;
